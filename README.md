@@ -23,7 +23,7 @@ The circuit takes an AC signal, passes it through a transformer (`TR1`), and the
 ## Usage
 
 1.  Provide an AC input signal to the "Signal In" BNC connector (`J1`).
-2.  Use the slide switch (`SW1`) to select the desired filter capacitance:
+2.  Use both the slide switches simultaneously (`SW1` and `SW2`) to select the desired filter capacitance:
     -   **Up Position**: 100uF (`C1`)
     -   **Down Position**: 1000uF (`C2`)
 3.  Observe the smoothed DC output from the "Signal Out" BNC connector (`J2`).
